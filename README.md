@@ -22,11 +22,10 @@ Este portafolio fue construido utilizando:
 🔧 Instalación y uso
 Si deseas clonar y ejecutar este portafolio localmente, sigue estos pasos:
 
-Clona el repositorio:
+Clona el repositorio y abre el archivo index.html en tu navegador:
 
  ```bash
 git clone https://github.com/CamiNefilim/caminefilim.github.io.git
-Abre el archivo index.html en tu navegador.
 ```
 
 📬 Contacto
