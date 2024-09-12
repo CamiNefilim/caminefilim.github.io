@@ -6,6 +6,7 @@ Portafolio de Camila Alvarado
 Soy desarrolladora de software desde el 2015 en la industria. He trabajado con diversas tecnologías y lenguajes de programación como C#, VB ASP.NET, PHP y JavaScript. En los últimos años, me he especializado en la gestión de proyectos y liderazgo de equipos, asegurando que cada proyecto cumpla con los requisitos técnicos y funcione de manera eficiente.
 
 🌟 Tecnologías
+
 Este portafolio fue construido utilizando:
 
 - HTML5
@@ -21,6 +22,7 @@ Este portafolio fue construido utilizando:
 *En proceso*
 
 🔧 Instalación y uso
+
 Si deseas clonar y ejecutar este portafolio localmente, sigue estos pasos:
 
 Clona el repositorio y abre el archivo index.html en tu navegador:
