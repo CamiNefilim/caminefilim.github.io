@@ -7,13 +7,13 @@ Soy desarrolladora de software desde el 2015 en la industria. He trabajado con d
 🌟 Tecnologías
 Este portafolio fue construido utilizando:
 
-HTML5
-CSS3
-JavaScript
-Bootstrap
-Bootstrap-icons
-typed.js
-swiper
+- HTML5
+- CSS3
+- JavaScript
+- Bootstrap
+- Bootstrap-icons
+- typed.js
+- swiper
 
 📂 Proyectos destacados
 
@@ -23,14 +23,16 @@ swiper
 Si deseas clonar y ejecutar este portafolio localmente, sigue estos pasos:
 
 Clona el repositorio:
+´
 bash
 Copiar código
 git clone https://github.com/CamiNefilim/caminefilim.github.io.git
 Abre el archivo index.html en tu navegador.
+´
 
 📬 Contacto
 Si te interesa saber más sobre mí o colaborar en algún proyecto, no dudes en contactarme:
 
-Correo: alvarado.astroza.camila@gmail.com
-LinkedIn: [Camila Alvarado](https://www.linkedin.com/in/camila-alvarado-astroza-52b0b6141/)
-GitHub: [CamiNefilim](https://github.com/CamiNefilim)
+- Correo: alvarado.astroza.camila@gmail.com
+- LinkedIn: [Camila Alvarado](https://www.linkedin.com/in/camila-alvarado-astroza-52b0b6141/)
+- GitHub: [CamiNefilim](https://github.com/CamiNefilim)
