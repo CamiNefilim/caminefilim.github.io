@@ -3,6 +3,7 @@ Portafolio de Camila Alvarado
 ¡Bienvenido a mi portafolio personal! Aquí podrás encontrar una muestra de mis habilidades y proyectos realizados a lo largo de mi carrera en el desarrollo de software.
 
 🚀 Acerca de mí
+
 Soy desarrolladora de software desde el 2015 en la industria. He trabajado con diversas tecnologías y lenguajes de programación como C#, VB ASP.NET, PHP y JavaScript. En los últimos años, me he especializado en la gestión de proyectos y liderazgo de equipos, asegurando que cada proyecto cumpla con los requisitos técnicos y funcione de manera eficiente.
 
 🌟 Tecnologías
@@ -32,6 +33,7 @@ git clone https://github.com/CamiNefilim/caminefilim.github.io.git
 ```
 
 📬 Contacto
+
 Si te interesa saber más sobre mí o colaborar en algún proyecto, no dudes en contactarme:
 
 - Correo: alvarado.astroza.camila@gmail.com
